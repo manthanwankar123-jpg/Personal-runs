@@ -1,7 +1,7 @@
 # Nested project build artifacts (see each project's .gitignore)
-RISC-V/sim/obj_dir*/
-RISC-V/fpga/vivado_timing/
-RISC-V/clockInfo.txt
+v1/RISC-V/sim/obj_dir*/
+v1/RISC-V/fpga/vivado_timing/
+v1/RISC-V/clockInfo.txt
 **/*.jou
 **/*.log
 **/.cache/

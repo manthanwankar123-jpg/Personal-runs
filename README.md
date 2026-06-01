@@ -2,6 +2,19 @@
 
 Personal hardware / architecture learning projects.
 
-| Project | Description | Repo |
-|---------|-------------|------|
-| [RISC-V/](RISC-V/) | RV32I single-cycle core (v1) | [risc-v](https://github.com/manthanwankar123-jpg/risc-v) (`V1` branch); also mirrored under this repo |
+## Layout
+
+| Folder | Status | Contents |
+|--------|--------|----------|
+| [v1/](v1/) | **Done** | RV32I single-cycle core (`v1/RISC-V/`) |
+| [v2/](v2/) | **Planned** | Pipelined / commercial MCU profile (TBD) |
+
+## v1 — RISC-V
+
+- **Path:** [v1/RISC-V/](v1/RISC-V/)
+- **Repo:** [manthanwankar123-jpg/risc-v](https://github.com/manthanwankar123-jpg/risc-v) (`V1` branch)
+- **Also:** [Personal-runs](https://github.com/manthanwankar123-jpg/Personal-runs) monorepo mirror
+
+## v2
+
+See [v2/README.md](v2/README.md).
