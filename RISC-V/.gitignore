@@ -1,0 +1,27 @@
+# Verilator build artifacts
+sim/obj_dir*/
+sim/obj_dir
+sim/*.log
+
+# Vivado generated
+clockInfo.txt
+fpga/vivado_timing/
+*.jou
+*.log
+*.pb
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.dcp
+*.bit
+*.ltx
+
+# Tool-generated asm dumps (keep .S and sim/*.hex)
+prog/*.o
+prog/*.vh
+
+# Editor / OS
+*.swp
+*~
+.DS_Store
