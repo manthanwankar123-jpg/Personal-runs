@@ -2,8 +2,8 @@
 
 Learning project: Harvard RV32I CPU in SystemVerilog, Verilator sim, optional Artix-7 FPGA timing.
 
-**Repository:** [github.com/manthan-architect/risc-v](https://github.com/manthan-architect/risc-v)  
-**Branch:** `V1` (single-cycle v1)
+**Location:** `Personal_runs/v1/RISC-V/`  
+**Repository:** [github.com/manthanwankar123-jpg/risc-v](https://github.com/manthanwankar123-jpg/risc-v) (`V1` branch) · [manthan-architect/risc-v](https://github.com/manthan-architect/risc-v)
 
 ## Docs
 
