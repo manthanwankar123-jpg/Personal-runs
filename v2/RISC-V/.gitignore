@@ -1,0 +1,12 @@
+# Simulation / synthesis artifacts
+sim/obj_dir*/
+fpga/vivado_timing/
+asic/out/
+
+# PDK clones (fetch via README: make unzip / git clone)
+asic/icsprout55-pdk/
+asic/asap7/
+
+**/.Xil/
+**/*.jou
+**/*.log

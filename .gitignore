@@ -5,6 +5,12 @@
 v1/RISC-V/sim/obj_dir*/
 v1/RISC-V/fpga/vivado_timing/
 v1/RISC-V/clockInfo.txt
+v2/RISC-V/fpga/vivado_timing/
+v2/RISC-V/sim/obj_dir*/
+v2/RISC-V/clockInfo.txt
 **/*.jou
 **/*.log
 **/.cache/
+
+# Legacy HLS work dirs at repo root (use ImageProcessing/*/hls/build/ instead)
+simple_passthrough_hls/

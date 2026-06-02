@@ -7,7 +7,8 @@ Personal hardware / architecture learning projects.
 | Folder | Status | Contents |
 |--------|--------|----------|
 | [v1/](v1/) | **Done** | RV32I single-cycle core (`v1/RISC-V/`) |
-| [v2/](v2/) | **Planned** | Pipelined / commercial MCU profile (TBD) |
+| [v2/](v2/) | **In progress** | Pipelined RV32IMC MCU — [SPEC](v2/SPEC.md) |
+| [ImageProcessing/](ImageProcessing/) | **In progress** | HLS video IPs (Obj_Detection, Simple_Passthrough) |
 
 ## v1 — RISC-V
 
@@ -17,4 +18,4 @@ Personal hardware / architecture learning projects.
 
 ## v2
 
-See [v2/README.md](v2/README.md).
+See [v2/README.md](v2/README.md) and [v2/SPEC.md](v2/SPEC.md).
