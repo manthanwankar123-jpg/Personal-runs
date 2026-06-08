@@ -1,0 +1,15 @@
+# HDMI 2.2 complete (primary)
+hdmi_tx_hdmi22_full_test
+hdmi_tx_spec_regression_test
+
+# SPEC.md per-phase (§1, §2, §3)
+hdmi_tx_spec_phase1_test
+hdmi_tx_spec_phase2_test
+hdmi_tx_spec_phase2b_test
+hdmi_tx_spec_phase3_test
+
+# Supplemental (HPD, reset, negative)
+hdmi_tx_no_hpd_test
+hdmi_tx_hpd_glitch_test
+hdmi_tx_soft_reset_test
+hdmi_tx_reg_rw_test

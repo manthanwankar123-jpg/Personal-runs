@@ -1,0 +1,17 @@
+# Simulation / UVM build artifacts
+sim/obj_dir*/
+uvm/work/
+uvm/csrc/
+uvm/logs/
+uvm/tr_db.log
+uvm/vc_hdrs.h
+uvm/simv
+uvm/simv.daidir
+uvm/*.daidir
+uvm/*.vdb
+uvm/urgReport/
+uvm/coverage.vdb
+uvm/ucli.key
+
+**/*.jou
+**/*.log

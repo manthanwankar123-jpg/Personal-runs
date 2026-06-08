@@ -8,6 +8,10 @@ v1/RISC-V/clockInfo.txt
 v2/RISC-V/fpga/vivado_timing/
 v2/RISC-V/sim/obj_dir*/
 v2/RISC-V/clockInfo.txt
+hdmi_tx_2_2/sim/obj_dir*/
+hdmi_tx_2_2/uvm/work/
+hdmi_tx_2_2/uvm/csrc/
+hdmi_tx_2_2/uvm/logs/
 **/*.jou
 **/*.log
 **/.cache/
